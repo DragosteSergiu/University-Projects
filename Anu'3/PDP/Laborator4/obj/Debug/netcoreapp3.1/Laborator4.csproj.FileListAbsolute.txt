@@ -1,0 +1,11 @@
+C:\Faculta\Anu'3\PDP\Laborator4\bin\Debug\netcoreapp3.1\Laborator4.exe
+C:\Faculta\Anu'3\PDP\Laborator4\bin\Debug\netcoreapp3.1\Laborator4.deps.json
+C:\Faculta\Anu'3\PDP\Laborator4\bin\Debug\netcoreapp3.1\Laborator4.runtimeconfig.json
+C:\Faculta\Anu'3\PDP\Laborator4\bin\Debug\netcoreapp3.1\Laborator4.runtimeconfig.dev.json
+C:\Faculta\Anu'3\PDP\Laborator4\bin\Debug\netcoreapp3.1\Laborator4.dll
+C:\Faculta\Anu'3\PDP\Laborator4\bin\Debug\netcoreapp3.1\Laborator4.pdb
+C:\Faculta\Anu'3\PDP\Laborator4\obj\Debug\netcoreapp3.1\Laborator4.csprojAssemblyReference.cache
+C:\Faculta\Anu'3\PDP\Laborator4\obj\Debug\netcoreapp3.1\Laborator4.AssemblyInfoInputs.cache
+C:\Faculta\Anu'3\PDP\Laborator4\obj\Debug\netcoreapp3.1\Laborator4.AssemblyInfo.cs
+C:\Faculta\Anu'3\PDP\Laborator4\obj\Debug\netcoreapp3.1\Laborator4.dll
+C:\Faculta\Anu'3\PDP\Laborator4\obj\Debug\netcoreapp3.1\Laborator4.pdb

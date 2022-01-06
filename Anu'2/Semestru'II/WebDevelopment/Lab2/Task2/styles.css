@@ -1,0 +1,10 @@
+.rainbow-div{
+    height: 500px;
+    /*background-image: linear-gradient(45deg, red 0%, orange 10%, yellow 20%, green 30%, blue 40%, indigo 60%, violet 80%);   */
+     background-image: linear-gradient(75deg, red 5%, transparent 8%), linear-gradient(70deg, orange 10%, transparent 13%), 
+    linear-gradient(65deg, yellow 15%, transparent 18%), linear-gradient(60deg, green 20%, transparent 23%), linear-gradient(55deg, blue 25%, transparent 28%)
+    , linear-gradient(50deg, indigo 30%, transparent 33%), linear-gradient(45deg, violet 35%, transparent 38%);
+    margin-top:5vh;
+    /*transform: rotate(5deg);*/
+}
+

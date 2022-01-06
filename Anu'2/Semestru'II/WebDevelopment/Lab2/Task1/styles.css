@@ -1,0 +1,34 @@
+.main{
+    background-color: blue;
+}
+
+.title-div{
+    font-size: 10px;
+}
+
+.table-div{
+    width: 50%;
+}
+
+table{
+    width: 100%;
+}
+.photo-div > img{
+    width: 100%;
+    height: 250px;
+    opacity: 25%;
+}
+
+table, th, tr, td{
+    border: 5px solid grey;
+    border-collapse: collapse;
+}
+
+td{
+    transition-delay: 0.3s;
+}
+
+.photo-div > img:hover{
+    transition-delay: 0.3s;
+    opacity: 80%;
+}

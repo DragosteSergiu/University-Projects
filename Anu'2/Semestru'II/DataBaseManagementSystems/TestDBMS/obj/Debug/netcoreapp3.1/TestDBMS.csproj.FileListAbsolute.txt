@@ -1,0 +1,4 @@
+C:\Faculta\Anu'II\Semestru'II\DataBaseManagementSystems\TestDBMS\bin\Debug\netcoreapp3.1\TestDBMS.exe
+C:\Faculta\Anu'II\Semestru'II\DataBaseManagementSystems\TestDBMS\obj\Debug\netcoreapp3.1\TestDBMS.csprojAssemblyReference.cache
+C:\Faculta\Anu'II\Semestru'II\DataBaseManagementSystems\TestDBMS\obj\Debug\netcoreapp3.1\TestDBMS.AssemblyInfoInputs.cache
+C:\Faculta\Anu'II\Semestru'II\DataBaseManagementSystems\TestDBMS\obj\Debug\netcoreapp3.1\TestDBMS.AssemblyInfo.cs

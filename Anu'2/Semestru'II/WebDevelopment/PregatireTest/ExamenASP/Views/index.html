@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="index.calls.js"></script>
+</head>
+<body>
+    <form method="get" class="log-form">
+        <label>
+            Name :
+            <input type="text" name="name" id="username">
+        </label>
+        <input type="submit" value="Login">
+    </form>
+
+    <ul class="current-channels-list">
+    </ul>
+
+    <form class="owned-channels-form">
+        <label>
+            Owner :
+            <input type="text" name="owner" id="owner-name">
+        </label>
+        <input type="submit" value="Get channels">
+    </form>
+
+    <form class="get-my-channels-form" method="get">
+        <input type="submit" value="Get my channels">
+    </form>
+    <ul class="channels-list">
+    </ul>
+
+    <form class="subscribe-to-channel">
+        <label for="chn-name">
+            Channel Name :
+        </label>
+        <input type="text" id="chn-name">
+        <input type="submit" value="Subscribe">
+    </form>
+</body>
+</html>

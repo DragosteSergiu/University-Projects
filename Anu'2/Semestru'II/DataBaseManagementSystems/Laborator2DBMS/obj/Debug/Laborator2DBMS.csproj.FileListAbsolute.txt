@@ -1,0 +1,9 @@
+C:\Faculta\Anu'II\Semestru'II\DataBaseManagementSystems\Laborator2DBMS\bin\Debug\Laborator2DBMS.exe.config
+C:\Faculta\Anu'II\Semestru'II\DataBaseManagementSystems\Laborator2DBMS\bin\Debug\Laborator2DBMS.exe
+C:\Faculta\Anu'II\Semestru'II\DataBaseManagementSystems\Laborator2DBMS\bin\Debug\Laborator2DBMS.pdb
+C:\Faculta\Anu'II\Semestru'II\DataBaseManagementSystems\Laborator2DBMS\obj\Debug\Laborator2DBMS.csprojAssemblyReference.cache
+C:\Faculta\Anu'II\Semestru'II\DataBaseManagementSystems\Laborator2DBMS\obj\Debug\Laborator2DBMS.Form1.resources
+C:\Faculta\Anu'II\Semestru'II\DataBaseManagementSystems\Laborator2DBMS\obj\Debug\Laborator2DBMS.Properties.Resources.resources
+C:\Faculta\Anu'II\Semestru'II\DataBaseManagementSystems\Laborator2DBMS\obj\Debug\Laborator2DBMS.csproj.GenerateResource.cache
+C:\Faculta\Anu'II\Semestru'II\DataBaseManagementSystems\Laborator2DBMS\obj\Debug\Laborator2DBMS.exe
+C:\Faculta\Anu'II\Semestru'II\DataBaseManagementSystems\Laborator2DBMS\obj\Debug\Laborator2DBMS.pdb

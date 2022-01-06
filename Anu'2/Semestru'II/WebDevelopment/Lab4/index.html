@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Laborator 4</title>
+        <link rel="stylesheet" href="style.css">
+        <script src="scripts.js" defer></script>
+    </head>
+    <body>
+        <div id="requirement-div">
+            <p id="requirement-p">Write a javascript which implements a drop-down menu with 5 principal submenus and between 3 and 5 commponents for each submenu. </p>
+        </div>
+        <div class="menu-div">
+            <div id="button-div">
+                <button id="btn" onclick="menuButtonClick()">Menu</button>
+            </div>
+            <div class="sub-menu-div">
+                <ul id="sub-menu-list">
+                    <li class="sub-menu-item">
+                        <button class="sub-menu-button" id="sub-btn-1" onclick="subMenuButtonClick(this, 1)">Submenu 1</button>
+                        <ul class="components-list" id="component-list1">
+                            <li class="sub-menu-component"><button class="component-button" id="comp-btn-11">Component 1</button></li>
+                            <li class="sub-menu-component"><button class="component-button" id="comp-btn-12">Component 2</button></li>
+                            <li class="sub-menu-component"><button class="component-button" id="comp-btn-13">Component 3</button></li>
+                        </ul>
+                    </li>
+                    <li class="sub-menu-item">
+                        <button class="sub-menu-button" id="sub-btn-2" onclick="subMenuButtonClick(this, 2)">Submenu 2</button>
+                        <ul class="components-list" id="component-list2">
+                            <li class="sub-menu-component"><button class="component-button" id="comp-btn-21">Component 1</button></li>
+                            <li class="sub-menu-component"><button class="component-button" id="comp-btn-22">Component 2</button></li>
+                            <li class="sub-menu-component"><button class="component-button" id="comp-btn-23">Component 3</button></li>
+                        </ul>
+                    </li>
+                    <li class="sub-menu-item">
+                        <button class="sub-menu-button" id="sub-btn-3" onclick="subMenuButtonClick(this, 3)">Submenu 3</button>
+                        <ul class="components-list" id="component-list3">
+                            <li class="sub-menu-component"><button class="component-button" id="comp-btn-31">Component 1</button></li>
+                            <li class="sub-menu-component"><button class="component-button" id="comp-btn-32">Component 2</button></li>
+                            <li class="sub-menu-component"><button class="component-button" id="comp-btn-33">Component 3</button></li>
+                        </ul>
+                    </li>
+                    <li class="sub-menu-item">
+                        <button class="sub-menu-button" id="sub-btn-4" onclick="subMenuButtonClick(this, 4)">Submenu 4</button>
+                        <ul class="components-list" id="component-list4">
+                            <li class="sub-menu-component"><button class="component-button" id="comp-btn-41">Component 1</button></li>
+                            <li class="sub-menu-component"><button class="component-button" id="comp-btn-42">Component 2</button></li>
+                            <li class="sub-menu-component"><button class="component-button" id="comp-btn-43">Component 3</button></li>
+                        </ul>
+                    </li>
+                    <li class="sub-menu-item">
+                        <button class="sub-menu-button" id="sub-btn-5" onclick="subMenuButtonClick(this, 5)">Submenu 5</button>
+                        <ul class="components-list" id="component-list5">
+                            <li class="sub-menu-component"><button class="component-button" id="comp-btn-51">Component 1</button></li>
+                            <li class="sub-menu-component"><button class="component-button" id="comp-btn-52">Component 2</button></li>
+                            <li class="sub-menu-component"><button class="component-button" id="comp-btn-53">Component 3</button></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </body>
+</html>

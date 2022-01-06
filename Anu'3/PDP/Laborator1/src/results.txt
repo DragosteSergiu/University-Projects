@@ -1,0 +1,207 @@
+Primary 1 + Primary 2 = Secondary 1(2 + 5 = 7), Primary 3 + Secondary 1 = Secondary 2(4 + 7 = 11)
+Step 1: Modify node on position 2, value 4 is changed into 0
+Primary 1 + Primary 2 = Secondary 1(2 + 5 = 7), Primary 3 + Secondary 1 = Secondary 2(0 + 7 = 7)
+Step 2: Modify node on position 1, value 5 is changed into 80
+Primary 1 + Primary 2 = Secondary 1(2 + 80 = 82), Primary 3 + Secondary 1 = Secondary 2(0 + 82 = 82)
+Step 3: Modify node on position 2, value 0 is changed into 63
+Primary 1 + Primary 2 = Secondary 1(2 + 80 = 82), Primary 3 + Secondary 1 = Secondary 2(63 + 82 = 145)
+Step 4: Modify node on position 0, value 2 is changed into 11
+Primary 1 + Primary 2 = Secondary 1(11 + 80 = 91), Primary 3 + Secondary 1 = Secondary 2(63 + 91 = 154)
+Step 5: Modify node on position 2, value 63 is changed into 82
+Primary 1 + Primary 2 = Secondary 1(11 + 80 = 91), Primary 3 + Secondary 1 = Secondary 2(82 + 91 = 173)
+Step 6: Modify node on position 1, value 80 is changed into 74
+Primary 1 + Primary 2 = Secondary 1(11 + 74 = 85), Primary 3 + Secondary 1 = Secondary 2(82 + 85 = 167)
+Step 7: Modify node on position 0, value 11 is changed into 90
+Primary 1 + Primary 2 = Secondary 1(90 + 74 = 164), Primary 3 + Secondary 1 = Secondary 2(82 + 164 = 246)
+Step 8: Modify node on position 1, value 74 is changed into 11
+Primary 1 + Primary 2 = Secondary 1(90 + 11 = 101), Primary 3 + Secondary 1 = Secondary 2(82 + 101 = 183)
+Step 9: Modify node on position 2, value 82 is changed into 9
+Primary 1 + Primary 2 = Secondary 1(90 + 11 = 101), Primary 3 + Secondary 1 = Secondary 2(9 + 101 = 110)
+Step 10: Modify node on position 0, value 90 is changed into 2
+Primary 1 + Primary 2 = Secondary 1(2 + 11 = 13), Primary 3 + Secondary 1 = Secondary 2(9 + 13 = 22)
+Step 11: Modify node on position 2, value 9 is changed into 18
+Primary 1 + Primary 2 = Secondary 1(2 + 11 = 13), Primary 3 + Secondary 1 = Secondary 2(18 + 13 = 31)
+Step 12: Modify node on position 1, value 11 is changed into 58
+Primary 1 + Primary 2 = Secondary 1(2 + 58 = 60), Primary 3 + Secondary 1 = Secondary 2(18 + 60 = 78)
+Step 13: Modify node on position 2, value 18 is changed into 68
+Primary 1 + Primary 2 = Secondary 1(2 + 58 = 60), Primary 3 + Secondary 1 = Secondary 2(68 + 60 = 128)
+Step 14: Modify node on position 2, value 68 is changed into 51
+Primary 1 + Primary 2 = Secondary 1(2 + 58 = 60), Primary 3 + Secondary 1 = Secondary 2(51 + 60 = 111)
+Step 15: Modify node on position 1, value 58 is changed into 52
+Primary 1 + Primary 2 = Secondary 1(2 + 52 = 54), Primary 3 + Secondary 1 = Secondary 2(51 + 54 = 105)
+Step 16: Modify node on position 2, value 51 is changed into 10
+Primary 1 + Primary 2 = Secondary 1(2 + 52 = 54), Primary 3 + Secondary 1 = Secondary 2(10 + 54 = 64)
+Step 17: Modify node on position 0, value 2 is changed into 66
+Primary 1 + Primary 2 = Secondary 1(66 + 52 = 118), Primary 3 + Secondary 1 = Secondary 2(10 + 118 = 128)
+Step 18: Modify node on position 1, value 52 is changed into 26
+Consistency check worked correct !
+Primary 1 + Primary 2 = Secondary 1(66 + 26 = 92), Primary 3 + Secondary 1 = Secondary 2(10 + 92 = 102)
+Step 19: Modify node on position 0, value 66 is changed into 51
+Primary 1 + Primary 2 = Secondary 1(51 + 26 = 77), Primary 3 + Secondary 1 = Secondary 2(10 + 77 = 87)
+Step 20: Modify node on position 2, value 10 is changed into 49
+Primary 1 + Primary 2 = Secondary 1(51 + 26 = 77), Primary 3 + Secondary 1 = Secondary 2(49 + 77 = 126)
+Step 21: Modify node on position 0, value 51 is changed into 56
+Primary 1 + Primary 2 = Secondary 1(56 + 26 = 82), Primary 3 + Secondary 1 = Secondary 2(49 + 82 = 131)
+Step 22: Modify node on position 1, value 26 is changed into 56
+Primary 1 + Primary 2 = Secondary 1(56 + 56 = 112), Primary 3 + Secondary 1 = Secondary 2(49 + 112 = 161)
+Step 23: Modify node on position 1, value 56 is changed into 70
+Primary 1 + Primary 2 = Secondary 1(56 + 70 = 126), Primary 3 + Secondary 1 = Secondary 2(49 + 126 = 175)
+Step 24: Modify node on position 0, value 56 is changed into 96
+Primary 1 + Primary 2 = Secondary 1(96 + 70 = 166), Primary 3 + Secondary 1 = Secondary 2(49 + 166 = 215)
+Step 25: Modify node on position 1, value 70 is changed into 17
+Primary 1 + Primary 2 = Secondary 1(96 + 17 = 113), Primary 3 + Secondary 1 = Secondary 2(49 + 113 = 162)
+Step 26: Modify node on position 2, value 49 is changed into 46
+Primary 1 + Primary 2 = Secondary 1(96 + 17 = 113), Primary 3 + Secondary 1 = Secondary 2(46 + 113 = 159)
+Step 27: Modify node on position 0, value 96 is changed into 83
+Primary 1 + Primary 2 = Secondary 1(83 + 17 = 100), Primary 3 + Secondary 1 = Secondary 2(46 + 100 = 146)
+Step 28: Modify node on position 1, value 17 is changed into 22
+Primary 1 + Primary 2 = Secondary 1(83 + 22 = 105), Primary 3 + Secondary 1 = Secondary 2(46 + 105 = 151)
+Step 29: Modify node on position 1, value 22 is changed into 0
+Primary 1 + Primary 2 = Secondary 1(83 + 0 = 83), Primary 3 + Secondary 1 = Secondary 2(46 + 83 = 129)
+Step 30: Modify node on position 0, value 83 is changed into 36
+Primary 1 + Primary 2 = Secondary 1(36 + 0 = 36), Primary 3 + Secondary 1 = Secondary 2(46 + 36 = 82)
+Step 31: Modify node on position 1, value 0 is changed into 60
+Primary 1 + Primary 2 = Secondary 1(36 + 60 = 96), Primary 3 + Secondary 1 = Secondary 2(46 + 96 = 142)
+Step 32: Modify node on position 1, value 60 is changed into 64
+Primary 1 + Primary 2 = Secondary 1(36 + 64 = 100), Primary 3 + Secondary 1 = Secondary 2(46 + 100 = 146)
+Step 33: Modify node on position 2, value 46 is changed into 70
+Primary 1 + Primary 2 = Secondary 1(36 + 64 = 100), Primary 3 + Secondary 1 = Secondary 2(70 + 100 = 170)
+Step 34: Modify node on position 0, value 36 is changed into 25
+Primary 1 + Primary 2 = Secondary 1(25 + 64 = 89), Primary 3 + Secondary 1 = Secondary 2(70 + 89 = 159)
+Step 35: Modify node on position 1, value 64 is changed into 71
+Primary 1 + Primary 2 = Secondary 1(25 + 71 = 96), Primary 3 + Secondary 1 = Secondary 2(70 + 96 = 166)
+Step 36: Modify node on position 0, value 25 is changed into 40
+Primary 1 + Primary 2 = Secondary 1(40 + 71 = 111), Primary 3 + Secondary 1 = Secondary 2(70 + 111 = 181)
+Step 37: Modify node on position 0, value 40 is changed into 6
+Primary 1 + Primary 2 = Secondary 1(6 + 71 = 77), Primary 3 + Secondary 1 = Secondary 2(70 + 77 = 147)
+Step 38: Modify node on position 2, value 70 is changed into 63
+Consistency check worked correct !
+Primary 1 + Primary 2 = Secondary 1(6 + 71 = 77), Primary 3 + Secondary 1 = Secondary 2(63 + 77 = 140)
+Step 39: Modify node on position 1, value 71 is changed into 31
+Primary 1 + Primary 2 = Secondary 1(6 + 31 = 37), Primary 3 + Secondary 1 = Secondary 2(63 + 37 = 100)
+Step 40: Modify node on position 1, value 31 is changed into 12
+Primary 1 + Primary 2 = Secondary 1(6 + 12 = 18), Primary 3 + Secondary 1 = Secondary 2(63 + 18 = 81)
+Step 41: Modify node on position 0, value 6 is changed into 34
+Primary 1 + Primary 2 = Secondary 1(34 + 12 = 46), Primary 3 + Secondary 1 = Secondary 2(63 + 46 = 109)
+Step 42: Modify node on position 2, value 63 is changed into 44
+Primary 1 + Primary 2 = Secondary 1(34 + 12 = 46), Primary 3 + Secondary 1 = Secondary 2(44 + 46 = 90)
+Step 43: Modify node on position 1, value 12 is changed into 35
+Primary 1 + Primary 2 = Secondary 1(34 + 35 = 69), Primary 3 + Secondary 1 = Secondary 2(44 + 69 = 113)
+Step 44: Modify node on position 2, value 44 is changed into 47
+Primary 1 + Primary 2 = Secondary 1(34 + 35 = 69), Primary 3 + Secondary 1 = Secondary 2(47 + 69 = 116)
+Step 45: Modify node on position 0, value 34 is changed into 41
+Primary 1 + Primary 2 = Secondary 1(41 + 35 = 76), Primary 3 + Secondary 1 = Secondary 2(47 + 76 = 123)
+Step 46: Modify node on position 1, value 35 is changed into 61
+Primary 1 + Primary 2 = Secondary 1(41 + 61 = 102), Primary 3 + Secondary 1 = Secondary 2(47 + 102 = 149)
+Step 47: Modify node on position 0, value 41 is changed into 52
+Primary 1 + Primary 2 = Secondary 1(52 + 61 = 113), Primary 3 + Secondary 1 = Secondary 2(47 + 113 = 160)
+Step 48: Modify node on position 1, value 61 is changed into 20
+Primary 1 + Primary 2 = Secondary 1(52 + 20 = 72), Primary 3 + Secondary 1 = Secondary 2(47 + 72 = 119)
+Step 49: Modify node on position 2, value 47 is changed into 32
+Primary 1 + Primary 2 = Secondary 1(52 + 20 = 72), Primary 3 + Secondary 1 = Secondary 2(32 + 72 = 104)
+Step 50: Modify node on position 2, value 32 is changed into 28
+Primary 1 + Primary 2 = Secondary 1(52 + 20 = 72), Primary 3 + Secondary 1 = Secondary 2(28 + 72 = 100)
+Step 51: Modify node on position 0, value 52 is changed into 15
+Primary 1 + Primary 2 = Secondary 1(15 + 20 = 35), Primary 3 + Secondary 1 = Secondary 2(28 + 35 = 63)
+Step 52: Modify node on position 1, value 20 is changed into 7
+Primary 1 + Primary 2 = Secondary 1(15 + 7 = 22), Primary 3 + Secondary 1 = Secondary 2(28 + 22 = 50)
+Step 53: Modify node on position 0, value 15 is changed into 79
+Primary 1 + Primary 2 = Secondary 1(79 + 7 = 86), Primary 3 + Secondary 1 = Secondary 2(28 + 86 = 114)
+Step 54: Modify node on position 0, value 79 is changed into 43
+Primary 1 + Primary 2 = Secondary 1(43 + 7 = 50), Primary 3 + Secondary 1 = Secondary 2(28 + 50 = 78)
+Step 55: Modify node on position 0, value 43 is changed into 86
+Primary 1 + Primary 2 = Secondary 1(86 + 7 = 93), Primary 3 + Secondary 1 = Secondary 2(28 + 93 = 121)
+Step 56: Modify node on position 1, value 7 is changed into 29
+Primary 1 + Primary 2 = Secondary 1(86 + 29 = 115), Primary 3 + Secondary 1 = Secondary 2(28 + 115 = 143)
+Step 57: Modify node on position 0, value 86 is changed into 34
+Primary 1 + Primary 2 = Secondary 1(34 + 29 = 63), Primary 3 + Secondary 1 = Secondary 2(28 + 63 = 91)
+Step 58: Modify node on position 0, value 34 is changed into 93
+Consistency check worked correct !
+Primary 1 + Primary 2 = Secondary 1(93 + 29 = 122), Primary 3 + Secondary 1 = Secondary 2(28 + 122 = 150)
+Step 59: Modify node on position 1, value 29 is changed into 58
+Primary 1 + Primary 2 = Secondary 1(93 + 58 = 151), Primary 3 + Secondary 1 = Secondary 2(28 + 151 = 179)
+Step 60: Modify node on position 0, value 93 is changed into 80
+Primary 1 + Primary 2 = Secondary 1(80 + 58 = 138), Primary 3 + Secondary 1 = Secondary 2(28 + 138 = 166)
+Step 61: Modify node on position 2, value 28 is changed into 30
+Primary 1 + Primary 2 = Secondary 1(80 + 58 = 138), Primary 3 + Secondary 1 = Secondary 2(30 + 138 = 168)
+Step 62: Modify node on position 1, value 58 is changed into 5
+Primary 1 + Primary 2 = Secondary 1(80 + 5 = 85), Primary 3 + Secondary 1 = Secondary 2(30 + 85 = 115)
+Step 63: Modify node on position 1, value 5 is changed into 95
+Primary 1 + Primary 2 = Secondary 1(80 + 95 = 175), Primary 3 + Secondary 1 = Secondary 2(30 + 175 = 205)
+Step 64: Modify node on position 2, value 30 is changed into 89
+Primary 1 + Primary 2 = Secondary 1(80 + 95 = 175), Primary 3 + Secondary 1 = Secondary 2(89 + 175 = 264)
+Step 65: Modify node on position 0, value 80 is changed into 36
+Primary 1 + Primary 2 = Secondary 1(36 + 95 = 131), Primary 3 + Secondary 1 = Secondary 2(89 + 131 = 220)
+Step 66: Modify node on position 0, value 36 is changed into 19
+Primary 1 + Primary 2 = Secondary 1(19 + 95 = 114), Primary 3 + Secondary 1 = Secondary 2(89 + 114 = 203)
+Step 67: Modify node on position 0, value 19 is changed into 96
+Primary 1 + Primary 2 = Secondary 1(96 + 95 = 191), Primary 3 + Secondary 1 = Secondary 2(89 + 191 = 280)
+Step 68: Modify node on position 1, value 95 is changed into 96
+Primary 1 + Primary 2 = Secondary 1(96 + 96 = 192), Primary 3 + Secondary 1 = Secondary 2(89 + 192 = 281)
+Step 69: Modify node on position 0, value 96 is changed into 50
+Primary 1 + Primary 2 = Secondary 1(50 + 96 = 146), Primary 3 + Secondary 1 = Secondary 2(89 + 146 = 235)
+Step 70: Modify node on position 2, value 89 is changed into 52
+Primary 1 + Primary 2 = Secondary 1(50 + 96 = 146), Primary 3 + Secondary 1 = Secondary 2(52 + 146 = 198)
+Step 71: Modify node on position 0, value 50 is changed into 62
+Primary 1 + Primary 2 = Secondary 1(62 + 96 = 158), Primary 3 + Secondary 1 = Secondary 2(52 + 158 = 210)
+Step 72: Modify node on position 0, value 62 is changed into 13
+Primary 1 + Primary 2 = Secondary 1(13 + 96 = 109), Primary 3 + Secondary 1 = Secondary 2(52 + 109 = 161)
+Step 73: Modify node on position 0, value 13 is changed into 23
+Primary 1 + Primary 2 = Secondary 1(23 + 96 = 119), Primary 3 + Secondary 1 = Secondary 2(52 + 119 = 171)
+Step 74: Modify node on position 1, value 96 is changed into 59
+Primary 1 + Primary 2 = Secondary 1(23 + 59 = 82), Primary 3 + Secondary 1 = Secondary 2(52 + 82 = 134)
+Step 75: Modify node on position 2, value 52 is changed into 18
+Primary 1 + Primary 2 = Secondary 1(23 + 59 = 82), Primary 3 + Secondary 1 = Secondary 2(18 + 82 = 100)
+Step 76: Modify node on position 1, value 59 is changed into 70
+Primary 1 + Primary 2 = Secondary 1(23 + 70 = 93), Primary 3 + Secondary 1 = Secondary 2(18 + 93 = 111)
+Step 77: Modify node on position 1, value 70 is changed into 77
+Primary 1 + Primary 2 = Secondary 1(23 + 77 = 100), Primary 3 + Secondary 1 = Secondary 2(18 + 100 = 118)
+Step 78: Modify node on position 1, value 77 is changed into 1
+Consistency check worked correct !
+Primary 1 + Primary 2 = Secondary 1(23 + 1 = 24), Primary 3 + Secondary 1 = Secondary 2(18 + 24 = 42)
+Step 79: Modify node on position 2, value 18 is changed into 10
+Primary 1 + Primary 2 = Secondary 1(23 + 1 = 24), Primary 3 + Secondary 1 = Secondary 2(10 + 24 = 34)
+Step 80: Modify node on position 0, value 23 is changed into 33
+Primary 1 + Primary 2 = Secondary 1(33 + 1 = 34), Primary 3 + Secondary 1 = Secondary 2(10 + 34 = 44)
+Step 81: Modify node on position 1, value 1 is changed into 46
+Primary 1 + Primary 2 = Secondary 1(33 + 46 = 79), Primary 3 + Secondary 1 = Secondary 2(10 + 79 = 89)
+Step 82: Modify node on position 1, value 46 is changed into 90
+Primary 1 + Primary 2 = Secondary 1(33 + 90 = 123), Primary 3 + Secondary 1 = Secondary 2(10 + 123 = 133)
+Step 83: Modify node on position 0, value 33 is changed into 94
+Primary 1 + Primary 2 = Secondary 1(94 + 90 = 184), Primary 3 + Secondary 1 = Secondary 2(10 + 184 = 194)
+Step 84: Modify node on position 0, value 94 is changed into 12
+Primary 1 + Primary 2 = Secondary 1(12 + 90 = 102), Primary 3 + Secondary 1 = Secondary 2(10 + 102 = 112)
+Step 85: Modify node on position 1, value 90 is changed into 13
+Primary 1 + Primary 2 = Secondary 1(12 + 13 = 25), Primary 3 + Secondary 1 = Secondary 2(10 + 25 = 35)
+Step 86: Modify node on position 2, value 10 is changed into 18
+Primary 1 + Primary 2 = Secondary 1(12 + 13 = 25), Primary 3 + Secondary 1 = Secondary 2(18 + 25 = 43)
+Step 87: Modify node on position 0, value 12 is changed into 84
+Primary 1 + Primary 2 = Secondary 1(84 + 13 = 97), Primary 3 + Secondary 1 = Secondary 2(18 + 97 = 115)
+Step 88: Modify node on position 1, value 13 is changed into 92
+Primary 1 + Primary 2 = Secondary 1(84 + 92 = 176), Primary 3 + Secondary 1 = Secondary 2(18 + 176 = 194)
+Step 89: Modify node on position 2, value 18 is changed into 35
+Primary 1 + Primary 2 = Secondary 1(84 + 92 = 176), Primary 3 + Secondary 1 = Secondary 2(35 + 176 = 211)
+Step 90: Modify node on position 1, value 92 is changed into 44
+Primary 1 + Primary 2 = Secondary 1(84 + 44 = 128), Primary 3 + Secondary 1 = Secondary 2(35 + 128 = 163)
+Step 91: Modify node on position 1, value 44 is changed into 42
+Primary 1 + Primary 2 = Secondary 1(84 + 42 = 126), Primary 3 + Secondary 1 = Secondary 2(35 + 126 = 161)
+Step 92: Modify node on position 0, value 84 is changed into 45
+Primary 1 + Primary 2 = Secondary 1(45 + 42 = 87), Primary 3 + Secondary 1 = Secondary 2(35 + 87 = 122)
+Step 93: Modify node on position 2, value 35 is changed into 84
+Primary 1 + Primary 2 = Secondary 1(45 + 42 = 87), Primary 3 + Secondary 1 = Secondary 2(84 + 87 = 171)
+Step 94: Modify node on position 2, value 84 is changed into 55
+Primary 1 + Primary 2 = Secondary 1(45 + 42 = 87), Primary 3 + Secondary 1 = Secondary 2(55 + 87 = 142)
+Step 95: Modify node on position 2, value 55 is changed into 83
+Primary 1 + Primary 2 = Secondary 1(45 + 42 = 87), Primary 3 + Secondary 1 = Secondary 2(83 + 87 = 170)
+Step 96: Modify node on position 0, value 45 is changed into 26
+Primary 1 + Primary 2 = Secondary 1(26 + 42 = 68), Primary 3 + Secondary 1 = Secondary 2(83 + 68 = 151)
+Step 97: Modify node on position 0, value 26 is changed into 57
+Primary 1 + Primary 2 = Secondary 1(57 + 42 = 99), Primary 3 + Secondary 1 = Secondary 2(83 + 99 = 182)
+Step 98: Modify node on position 1, value 42 is changed into 97
+Consistency check worked correct !
+Primary 1 + Primary 2 = Secondary 1(57 + 97 = 154), Primary 3 + Secondary 1 = Secondary 2(83 + 154 = 237)
+Step 99: Modify node on position 2, value 83 is changed into 32
+Consistency check worked correct !
+Consistency check worked correct !
+Consistency check worked correct !
+Consistency check worked correct !
